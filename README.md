@@ -32,7 +32,7 @@ Antes de iniciar el proyecto asegúrate de tener instalado:
 ### 1. Clonar el repositorio
 
 ```bash
-git clone <repository-url>
+git clone https://github.com/IsaacEi/payment-service-frontend.git
 cd payment-service-ui
 ```
 
