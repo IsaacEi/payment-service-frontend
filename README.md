@@ -33,7 +33,7 @@ Antes de iniciar el proyecto asegúrate de tener instalado:
 
 ```bash
 git clone https://github.com/IsaacEi/payment-service-frontend.git
-cd payment-service-ui
+cd payment-service-frontend
 ```
 
 ### 2. Configurar variables de entorno
